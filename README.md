@@ -10,7 +10,7 @@ The bill amount, the percentage tip or service quality and the number of people 
 
 The calculating mechanism is written in a Java Script file while the stile of the web appication is writtten in a CSS file. 
 
-![Tip Calculator]https://github.com/AnnMu/TipCalculator/blob/master/tip.png
+![Tip Calculator](https://github.com/AnnMu/TipCalculator/blob/master/tip.png?raw=true)
 
 ## Description
 
