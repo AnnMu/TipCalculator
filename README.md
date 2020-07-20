@@ -12,6 +12,8 @@ The calculating mechanism is written in a Java Script file while the stile of th
 
 ![Tip Calculator](https://github.com/AnnMu/TipCalculator/blob/master/tip.png?raw=true)
 
+Enjoy your tip calculation! 
+
 ## Description
 
 Web application is based on .js, .html, and .css files. It can be downloaded from GitHub: https://github.com/AnnMu/TipCalculator
